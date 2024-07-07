@@ -1,1 +1,3 @@
-welcome to chapter1 ov my new book dood. this is the start of the story
+welcome to chapter1 ov my new book dood. this is the start of the story. first we started by cloning quake repo from git to play on our edge browser!!
+
+evan thinks we should talk more about branching in this chapter. like how you use git checkout to switch branches
